@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7dae2648b7d80ff479dbe7a2e8e2a66a
+timeCreated: 1593264590
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Atlantic Cruise(RUS BY LYAJKA)
+  fontNames:
+  - Atlantic Cruise(RUS BY LYAJKA)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
